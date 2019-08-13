@@ -1,16 +1,69 @@
 
-
-
-
-    
-.container {
-
+.container{
+    background-color: rgb(189, 6, 6);
+    border-radius: 10px;
     margin: 0 auto;
-    padding: 10px;
+    width: 90%;
+    height: 500px;
 
-    background-color: rgb(95, 95, 95);
 
+    border: 3px dashed gray;
 
-    border: 2px solid yellow;
 }
 
+    .App {
+
+
+        display: flex;
+        flex-direction: row;
+
+        height: 70%;
+        margin-top: 55px;
+
+
+        border: 3px solid black;
+
+    }
+
+
+
+.logo-container {
+
+height: 50px;
+width: auto;
+
+    border: 2px solid blue;
+
+
+   
+} 
+
+
+
+
+ .logo {
+
+
+height: 25px;
+width: auto;
+float: left;
+
+        border: 2px dotted white;
+}
+
+
+button {
+    
+
+   
+    font-size: 35px;
+    border-radius: 90px;
+    
+    margin: 7px;
+
+
+    background-color: cornflowerblue;
+
+    border: 2px solid darkblue;
+    
+}
