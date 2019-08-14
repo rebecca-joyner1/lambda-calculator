@@ -1,0 +1,67 @@
+
+.container{
+    background-color: rgb(189, 6, 6);
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 90%;
+    height: 500px;
+
+
+    border: 3px dashed gray;
+
+}
+
+    .App {
+
+
+        display: flex;
+        flex-direction: row;
+
+        height: 70%;
+        margin-top: 55px;
+
+
+        border: 3px solid black;
+
+    }
+
+
+
+.logo-container {
+
+height: 50px;
+width: auto;
+
+    border: 2px solid blue;
+
+
+   
+} 
+
+
+
+
+ .logo {
+
+
+height: 25px;
+width: auto;
+float: left;
+
+        border: 2px dotted white;
+}
+
+
+button {
+    
+
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+
+    background-color: cornflowerblue;
+
+    border: 2px solid darkblue;
+    
+}
